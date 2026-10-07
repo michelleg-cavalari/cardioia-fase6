@@ -1,4 +1,3 @@
----
 <p align="center">
   <img src="assets/fiap-logo.png" alt="FIAP" width="300">
 </p>
