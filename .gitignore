@@ -1,0 +1,12 @@
+# Chave da API
+.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos do VS Code
+.vscode/
